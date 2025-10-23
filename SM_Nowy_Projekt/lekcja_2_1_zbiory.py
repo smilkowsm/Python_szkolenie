@@ -13,3 +13,4 @@ krotka_pusta = () # tuple
 krotka = (1, True, "Hej", None) # nie mozna edytowac tuple()
 
 print(zbior, lista, a)
+
