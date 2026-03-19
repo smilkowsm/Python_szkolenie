@@ -1,0 +1,85 @@
+[
+    {
+        "tytul": "Clair Obscur: Expedition 33",
+        "gatunek": "RPG",
+        "rok": "2025",
+        "ocena": 10,
+        "studio": "Sandfall Interactive",
+        "kategoria": "gra"
+    },
+    {
+        "tytul": "Arc Riders",
+        "gatunek": "Akcja",
+        "rok": "2025",
+        "ocena": "Brak",
+        "studio": "Embark Studios",
+        "kategoria": "gra"
+    },
+    {
+        "tytul": "Ghost Of Tsushima",
+        "gatunek": "Akcja",
+        "rok": "2020",
+        "ocena": "Brak",
+        "studio": "Sucker Punch",
+        "kategoria": "gra"
+    },
+    {
+        "tytul": "Bloodborne",
+        "gatunek": "Action Rpg",
+        "rok": "2015",
+        "ocena": "Brak",
+        "studio": "Fromsoftware",
+        "kategoria": "gra"
+    },
+    {
+        "tytul": "Ojciec Chrzestny",
+        "gatunek": "Dramat",
+        "rok": "1972",
+        "ocena": "Brak",
+        "rezyser": "Francis Ford Coppola",
+        "kategoria": "film"
+    },
+    {
+        "tytul": "The Office",
+        "gatunek": "Komedia",
+        "rok": "2005",
+        "ocena": "Brak",
+        "rezyser": "Ricky Gervais",
+        "kategoria": "film"
+    },
+    {
+        "tytul": "Gwiezdne Wojny: Mroczne Widmo",
+        "gatunek": "Sci-Fi",
+        "rok": "1999",
+        "ocena": 5,
+        "rezyser": "George Lucas",
+        "kategoria": "film"
+    },
+    {
+        "tytul": "Samozwaniec",
+        "gatunek": "Fantastyka Historyczna",
+        "rok": "2009",
+        "ocena": "Brak",
+        "autor": "Jacek Komuda",
+        "wydawnictwo": "Fabryka Slow",
+        "kategoria": "ksiazka"
+    },
+    {
+        "tytul": "Rok 1984",
+        "gatunek": "Dystopia",
+        "rok": "1949",
+        "ocena": "Brak",
+        "autor": "George Orwell",
+        "wydawnictwo": "Secker & Warburg",
+        "kategoria": "ksiazka"
+    },
+    {
+        "tytul": "Diuna",
+        "gatunek": "Sci-Fi",
+        "rok": "1965",
+        "ocena": "Brak",
+        "autor": "Frank Herbert",
+        "wydawnictwo": "Chilton Books",
+        "kategoria": "ksiazka"
+    }
+]
