@@ -41,7 +41,7 @@ class Ksiazka(Media):
 
 class Katalog: # Klasa odpowiadajaca za baze danych, musialem sie tutaj troche posilkowac czatem zeby ogarnac zapisywanie wszystkiego w json'ie
     def __init__(self):
-        self.plik = "baza.json" # W tym pliku zapisujemy wszystkie pozycje
+        self.plik = "baza.json" # W tym pliku zapisujemy wszystkie pozycje (trzeba uruchomic skrypt z tego samego folderu w ktorym znajduje sie baza)
         self.gry = []
         self.filmy = []
         self.ksiazki = []
