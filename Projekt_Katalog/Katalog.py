@@ -210,7 +210,8 @@ Jest to funkcja ktora pozwala wyszukiwac newsy na temat gier, filmow/seriali, ks
 Po wybraniu kategorii, pozwala nam wyszukac newsa za pomoca slowa kluczowego i zwraca nam tytul artykulu i link do niego.
 Dla newsow odnosnie gier i filmow/seriali odwoluje sie do portalu ppe.pl, a dla ksiazek premieryksiazkowe.pl.
 Zakres przeszukiwanych stron ustawilem na sztywno aby przeszukiwal 5 pierwszych stron. Nie jest to zapisywane do bazy, bo dla niektorych wyszukiwan
-moze zwrocic sporo wynikow i mocno by zasmiecalo. 
+moze zwrocic sporo wynikow i mocno by zasmiecalo. Dla potwierdzenia dzialania, najlepiej wejsc na ktoras ze stron i pozniej wpisac slowo kluczowe z tytulu artykulu,
+poniewaz tych newsow wychodzi sporo i jako ze zakres stron jest 1-5 mozna nie zawsze trafic w ten szukany.
 """
 
     while True:
